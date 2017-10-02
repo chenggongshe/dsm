@@ -1,1 +1,2 @@
-今天正式使用 Git 分布式版本管理系统工具
+Git is a version control system.
+Git is free software.
